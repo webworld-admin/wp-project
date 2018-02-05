@@ -1,2 +1,3 @@
-# wp-project
-default wp project + npm
+# wp-admin
+admin_user
+root
